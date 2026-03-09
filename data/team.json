@@ -3,56 +3,56 @@
     {
       "name": "Mayukh Tilak",
       "position": "Chairperson",
-      "bio": "A brief introduction about your role and vision.",
-      "image": null,
-      "linkedIn": "#"
+      "bio": "Cybersecurity student driven by curiosity, passionate about exploring technologies, engaging with people, sharing ideas, and contributing to communities that encourage growth, innovation, and continuous learning.",
+      "image": "assets/photos/cnew.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/mayukh-tilak-707426281"
     },
     {
       "name": "Vratika Bawangade",
       "position": "Vice Chairperson",
-      "bio": "A brief introduction about your role and responsibilities.",
-      "image": null,
-      "linkedIn": "#"
+      "bio": "I am a Data Science undergraduate at SRM IST and Vice Chair of ACM SIGCHI. I enjoy connecting with people, hearing new ideas, and working together to create engaging tech initiatives.",
+      "image": "assets/photos/vc.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/vratika-bawangade-b301432b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
       "name": "Kironmoy Mukherjee",
       "position": "Secretary",
-      "bio": "A brief introduction about your role and contributions.",
-      "image": "assets/photos/secretary.jpeg",
+      "bio": "I am a defense aspirant with a disciplined, purpose-driven outlook, focused on applying technology to real-world impact. I enjoy strategic thinking, public speaking, and collaborating with teams to turn ideas into action.",
+      "image": "assets/photos/secnew.jpeg",
       "linkedIn": "https://www.linkedin.com/in/kironmoy-mukherjee-40510329a/"
     },
     {
       "name": "Vinisha Sahoo",
       "position": "Treasurer",
-      "bio": "I'm interested in tech, organizing events, and building creative ideas into real projects. I enjoy working with teams, learning new things, and taking initiative when something needs to get done.",
+      "bio": "I’m someone interested in technology, creative ideas, and organizing events. I enjoy teamwork, learning new things, and taking initiative to get things done.",
       "image": "assets/photos/treasurer.jpeg",
       "linkedIn": "https://www.linkedin.com/in/vinisha-sahoo"
     },
     {
       "name": "Dhruv Jha",
       "position": "Web Master",
-      "bio": "Godspeed.",
+      "bio": "Focused on technology and building meaningful connections, with a strong emphasis on networking, collaboration, and exchanging ideas that lead to new opportunities.",
       "image": "assets/photos/webmaster.jpeg",
       "linkedIn": "https://www.linkedin.com/in/dhruv-jha/"
     },
     {
       "name": "Trisha Kumar",
       "position": "Technical Lead",
-      "bio": "A brief introduction about your role and technical expertise.",
-      "image": null,
+      "bio": "Passionate about machine learning and problem-solving, using technology to create meaningful impact. I enjoy collaboration, thoughtful discussions, and building solutions together.",
+      "image": "assets/photos/tleadnew.jpeg",
       "linkedIn": "https://www.linkedin.com/in/trisha-kumar-22516a2b1/"
     },
     {
       "name": "Shabrimuthu",
       "position": "Non Technical Lead",
-      "bio": "I enjoy meeting new people and forming connections that outlast events. Passionate about getting the boat to sail further than before, happy to make your acquaintance",
-      "image": "assets/photos/ntlead.jpeg",
+      "bio": "I enjoy meeting new people and building connections that last beyond events. Passionate about taking things further than before, happy to make your acquaintance.",
+      "image": "assets/photos/ntleadnew.jpeg",
       "linkedIn": "#"
     },
     {
       "name": "Esha Evalene Aakula",
       "position": "Creatives Lead",
-      "bio": "I enjoy designing, brainstorming concepts, and bringing ideas to life through visuals and content.",
+      "bio": "I enjoy designing, brainstorming creative concepts, and transforming ideas into engaging visuals and content that effectively communicate messages and capture attention.",
       "image": "assets/photos/clead.jpeg",
       "linkedIn": "https://www.linkedin.com/in/esha-evalene-aakula/"
     }
